@@ -1,4 +1,5 @@
 #Preparando o ambiente
 from collections import Counter
-import pandas
+import pandas as pd
+
 
